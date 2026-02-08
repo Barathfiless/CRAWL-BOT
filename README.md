@@ -2,6 +2,7 @@
 
 A professional, modular search engine pipeline that performs web crawling, data indexing, and keyword-based ranking. This version is optimized for speed and uses traditional TF-IDF (Term Frequency-Inverse Document Frequency) for ranking results.
 
+# CRAWLING -> INDEXING -> PAGE RANKING
 ---
 
 ## Project Structure
