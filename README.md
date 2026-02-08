@@ -1,4 +1,4 @@
-# Beast Search: High-Speed Keyword Search Engine
+# CRAWL-BOT
 
 A professional, modular search engine pipeline that performs web crawling, data indexing, and keyword-based ranking. This version is optimized for speed and uses traditional TF-IDF (Term Frequency-Inverse Document Frequency) for ranking results.
 
